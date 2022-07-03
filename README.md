@@ -7,7 +7,7 @@ Task:
 Building a calculator (which will perform 4 operations- addition, subtraction, multiplication and division)
 using Object Oriented PHP.
 
-![PHP Calculator](https://github.com/IshratSwarna/PHP-Project-calculator-/edit/development/php_calculator_demo_picture.png?raw=true)
+![PHP Calculator](https://github.com/IshratSwarna/PHP-Project-calculator-/blob/development/php_calculator_demo_picture.PNG?raw=true)
 
 Approach:
 =============
